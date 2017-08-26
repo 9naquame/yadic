@@ -1,5 +1,5 @@
 {
-    "name": "orignx/yadic",
+    "name": "orignx/di",
     "description": "A dependency injection package",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "autoload" : {
         "psr-4" : { 
-            "orignx\\yadic\\": "src/"
+            "orignx\\di\\": "src/"
         }
     }
 }
