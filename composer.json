@@ -1,5 +1,5 @@
 {
-    "name": "orignx/di",
+    "name": "orignx/diject",
     "description": "A dependency injection package",
     "license": "MIT",
     "authors": [
@@ -10,7 +10,7 @@
     ],
     "autoload" : {
         "psr-4" : { 
-            "orignx\\di\\": "src/"
+            "orignx\\diject\\": "src/"
         }
     }
 }
