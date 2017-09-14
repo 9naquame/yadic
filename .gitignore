@@ -1,1 +1,6 @@
-/nbproject/private/
+/vendor/
+composer.lock
+*~
+/nbproject/
+.project
+.buildpath
